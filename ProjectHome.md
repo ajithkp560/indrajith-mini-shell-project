@@ -1,0 +1,1 @@
+It is a PHP tool which is used for Remote Administration and File Management.
